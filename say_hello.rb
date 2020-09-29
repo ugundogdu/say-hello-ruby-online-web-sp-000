@@ -1,6 +1,5 @@
 def say_hello
-  phrase = "Say Hello"
+  phrase= "Hello!"
   puts phrase
+say_hello
 end
-
-phrase
