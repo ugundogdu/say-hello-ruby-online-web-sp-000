@@ -1,5 +1,5 @@
 def say_hello
-  phrase = "Hello!"
+  puts = "Hello!"
 end
 
-say_hello
+
